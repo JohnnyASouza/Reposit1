@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 GGGGGGGG
 sdhsjdsds
 jj
 ddd
 ssssssssssssssssssssssssssssssssss
+=======
+Aiii
+asdhjsdhsjds
+sjdhshdj
+ksdjs
+jds
+dds
+>>>>>>> 35ae758ab0bf56156056e56581e242ae614694af
